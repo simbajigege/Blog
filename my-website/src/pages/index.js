@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/blog">
             Learn with Simba     
-          </Link>
+          </Link>··   
         </div>
       </div>
     </header>
