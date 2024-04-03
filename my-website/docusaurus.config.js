@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '产品二姐的自留地',
+  tagline: '二姐做产品经理10年，最大的愿望就是从0到1做一款自己的产品',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'My Website',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpeg',
         },
         items: [
           {
@@ -80,14 +80,14 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/simbajigege/learn',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
@@ -106,8 +106,8 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'WeChat',
+                href: 'http://mp.weixin.qq.com/mp/homepage?__biz=MzUyODY0MTQ4OA==&hid=3&sn=00843bc18792a1cf04a17a1845470521&scene=18#wechat_redirect',
               },
               {
                 label: 'Twitter',
