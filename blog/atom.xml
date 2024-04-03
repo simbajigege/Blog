@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simbajigege.github.io/learn/blog</id>
-    <title>My Site Blog</title>
+    <title>产品二姐的自留地 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simbajigege.github.io/learn/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>产品二姐的自留地 Blog</subtitle>
     <icon>https://simbajigege.github.io/learn/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
@@ -86,6 +86,20 @@
         <title type="html"><![CDATA[First Blog Post]]></title>
         <id>https://simbajigege.github.io/learn/blog/first-blog-post</id>
         <link href="https://simbajigege.github.io/learn/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Gao Wei wei</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Blog Post]]></title>
+        <id>https://simbajigege.github.io/learn/blog/Second-blog-post</id>
+        <link href="https://simbajigege.github.io/learn/blog/Second-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
